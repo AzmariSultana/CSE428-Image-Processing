@@ -5,3 +5,6 @@
 
 # Previous Lectures (ABA, TAA)
     https://youtube.com/playlist?list=PLn12JjJn-4YnoOsrIuREbn3BmshSI3lHS&si=5bCBWZzyzj5Lhjp6
+
+# Mid Problem Solve
+    https://www.youtube.com/watch?v=5rMor0rMeok
